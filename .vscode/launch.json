@@ -1,0 +1,14 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Spring Boot-MydocsregistryApplication<mydocsregistry>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "mainClass": "com.mydocs.eureka.mydocsregistry.MydocsregistryApplication",
+            "projectName": "mydocsregistry",
+            "args": "",
+            "envFile": "${workspaceFolder}/.env"
+        }
+    ]
+}
